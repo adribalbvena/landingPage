@@ -5,7 +5,7 @@ html, body {
     font-weight: 400;
     line-height: 20px;
     font-size: 1rem;
-    color: #303137;
+    color: #373230;
     margin: 0;
 }
 
@@ -30,7 +30,7 @@ html, body {
 
 .brand, .nav-link, a {
     text-transform: uppercase;
-    color: #303137;
+    color: #373230;
 }
 
 .brand {
@@ -38,7 +38,7 @@ html, body {
 }
 
 .sensei {
-    color: #66B6D3;
+    color: #d38566;
 }
 
 .topnav .nav-link, a {
@@ -72,7 +72,7 @@ header {
 }
 
 .services, .contact-container {
-    background-color: #F1F3FA;
+    background-color: #faf1f1;
     padding: 4rem 1rem;
 }
 
@@ -118,7 +118,7 @@ header {
 }
 
 .blurb-info {
-    color: #646B90;
+    color: #906e64;
     font-size: 18px;
 }
 
@@ -130,11 +130,11 @@ header {
 
 .quote-btn {
     color: #FFFFFF;
-    background-color: #66B6D3;
+    background-color: #d37666;
     font-size: 18px;
     border: none;
     padding: .8rem 4rem;
-    box-shadow: 0 5px 20px rgba(0,0,0,.3);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
     border-radius: 3px;
 }
 
@@ -157,7 +157,7 @@ header {
 .portfolio-box {
     width: 250px;
     height: 250px;
-    background-color: #F1F3FA;
+    background-color: #faf3f1;
     transition: .2s ease-in-out;
 }
 
@@ -178,9 +178,9 @@ form label {
     max-width: 800px;
     width: 100%;
     background-color: #FFFFFF;
-    color: #292B2C;
+    color: #2c2a29;
     border-radius: 2px;
-    border: 1px solid #ced4da;
+    border: 1px solid #dad1ce;
     padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
